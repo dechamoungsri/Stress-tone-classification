@@ -1,0 +1,649 @@
+------------Start-----------
+Vowel : all_vowel_type, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//all_vowel_type/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//all_vowel_type/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//all_vowel_type/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  1973
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.350557244174
+Latent data : 
+warning in stationary: failed to import cython module: falling back to numpy
+Accuracy : 0.700101317123
+
+Number of training patterns:  1973
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.346504559271
+Latent data : 
+Accuracy : 0.671732522796
+
+Number of training patterns:  1974
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.313387423935
+Latent data : 
+Accuracy : 0.676470588235
+
+------------End-----------
+------------Start-----------
+Vowel : No_duration_all_vowel_type, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//No_duration_all_vowel_type/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//all_vowel_type/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//all_vowel_type/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  1973
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.305977710233
+Latent data : 
+Accuracy : 0.668693009119
+
+Number of training patterns:  1973
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.335359675785
+Latent data : 
+Accuracy : 0.634245187437
+
+Number of training patterns:  1974
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.313387423935
+Latent data : 
+Accuracy : 0.672413793103
+
+------------End-----------
+------------Start-----------
+Vowel : all_vowel_type, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//all_vowel_type/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//all_vowel_type/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//all_vowel_type/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  1973
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.305977710233
+Latent data : 
+Accuracy : 0.783181357649
+
+Number of training patterns:  1973
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.335359675785
+Latent data : 
+Accuracy : 0.776089159068
+
+Number of training patterns:  1974
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.340770791075
+Latent data : 
+Accuracy : 0.7261663286
+
+------------End-----------
+------------Start-----------
+Vowel : No_duration_all_vowel_type, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//No_duration_all_vowel_type/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//all_vowel_type/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//all_vowel_type/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  1973
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.305977710233
+Latent data : 
+Accuracy : 0.690982776089
+
+Number of training patterns:  1973
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.335359675785
+Latent data : 
+Accuracy : 0.701114488349
+
+Number of training patterns:  1974
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.313387423935
+Latent data : 
+Accuracy : 0.702839756592
+
+------------End-----------
+------------Start-----------
+Vowel : all_vowel_type, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//all_vowel_type/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//all_vowel_type/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//all_vowel_type/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  1973
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.305977710233
+Latent data : 
+Accuracy : 0.711246200608
+
+Number of training patterns:  1973
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.335359675785
+Latent data : 
+Accuracy : 0.6757852077
+
+Number of training patterns:  1974
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.313387423935
+Latent data : 
+Accuracy : 0.677484787018
+
+------------End-----------
+------------Start-----------
+Vowel : No_duration_all_vowel_type, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//No_duration_all_vowel_type/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//all_vowel_type/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//all_vowel_type/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  1973
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.305977710233
+Latent data : 
+Accuracy : 0.672745694022
+
+Number of training patterns:  1973
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.335359675785
+Latent data : 
+Accuracy : 0.603850050659
+
+Number of training patterns:  1974
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.313387423935
+Latent data : 
+Accuracy : 0.660243407708
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//vvv/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  421
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.293838862559
+Latent data : 
+Accuracy : 0.644549763033
+
+Number of training patterns:  421
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.383886255924
+Latent data : 
+Accuracy : 0.649289099526
+
+Number of training patterns:  422
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.442857142857
+Latent data : 
+Accuracy : 0.585714285714
+
+------------End-----------
+------------Start-----------
+Vowel : No_duration_vvv, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//No_duration_vvv/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  421
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.317535545024
+Latent data : 
+Accuracy : 0.587677725118
+
+Number of training patterns:  421
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.478672985782
+Latent data : 
+Accuracy : 0.701421800948
+
+Number of training patterns:  422
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.447619047619
+Latent data : 
+Accuracy : 0.604761904762
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//vvv/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  421
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.293838862559
+Latent data : 
+Accuracy : 0.791469194313
+
+Number of training patterns:  421
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.341232227488
+Latent data : 
+Accuracy : 0.748815165877
+
+Number of training patterns:  422
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.319047619048
+Latent data : 
+Accuracy : 0.785714285714
+
+------------End-----------
+------------Start-----------
+Vowel : No_duration_vvv, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//No_duration_vvv/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  421
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.303317535545
+Latent data : 
+Accuracy : 0.672985781991
+
+Number of training patterns:  421
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.341232227488
+Latent data : 
+Accuracy : 0.687203791469
+
+Number of training patterns:  422
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.319047619048
+Latent data : 
+Accuracy : 0.790476190476
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//vvv/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  421
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.42654028436
+Latent data : 
+Accuracy : 0.701421800948
+
+Number of training patterns:  421
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.341232227488
+Latent data : 
+Accuracy : 0.739336492891
+
+Number of training patterns:  422
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.338095238095
+Latent data : 
+Accuracy : 0.738095238095
+
+------------End-----------
+------------Start-----------
+Vowel : No_duration_vvv, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//No_duration_vvv/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  421
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.293838862559
+Latent data : 
+Accuracy : 0.701421800948
+
+Number of training patterns:  421
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.341232227488
+Latent data : 
+Accuracy : 0.668246445498
+
+Number of training patterns:  422
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.319047619048
+Latent data : 
+Accuracy : 0.709523809524
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//vvvn/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  851
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.455399061033
+Latent data : 
+Accuracy : 0.492957746479
+
+Number of training patterns:  851
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.448356807512
+Latent data : 
+Accuracy : 0.507042253521
+
+Number of training patterns:  852
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.409411764706
+Latent data : 
+Accuracy : 0.52
+
+------------End-----------
+------------Start-----------
+Vowel : No_duration_vvvn, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//No_duration_vvvn/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  851
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.453051643192
+Latent data : 
+Accuracy : 0.549295774648
+
+Number of training patterns:  851
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.448356807512
+Latent data : 
+Accuracy : 0.629107981221
+
+Number of training patterns:  852
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.409411764706
+Latent data : 
+Accuracy : 0.632941176471
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//vvvn/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  851
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.453051643192
+Latent data : 
+Accuracy : 0.56103286385
+
+Number of training patterns:  851
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.448356807512
+Latent data : 
+Accuracy : 0.654929577465
+
+Number of training patterns:  852
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.409411764706
+Latent data : 
+Accuracy : 0.543529411765
+
+------------End-----------
+------------Start-----------
+Vowel : No_duration_vvvn, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//No_duration_vvvn/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  851
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.453051643192
+Latent data : 
+Accuracy : 0.636150234742
+
+Number of training patterns:  851
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.448356807512
+Latent data : 
+Accuracy : 0.610328638498
+
+Number of training patterns:  852
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.409411764706
+Latent data : 
+Accuracy : 0.68
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//vvvn/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  851
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.453051643192
+Latent data : 
+Accuracy : 0.598591549296
+
+Number of training patterns:  851
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.448356807512
+Latent data : 
+Accuracy : 0.530516431925
+
+Number of training patterns:  852
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.409411764706
+Latent data : 
+Accuracy : 0.555294117647
+
+------------End-----------
+------------Start-----------
+Vowel : No_duration_vvvn, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//No_duration_vvvn/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  851
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.453051643192
+Latent data : 
+Accuracy : 0.568075117371
+
+Number of training patterns:  851
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.448356807512
+Latent data : 
+Accuracy : 0.612676056338
+
+Number of training patterns:  852
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.409411764706
+Latent data : 
+Accuracy : 0.637647058824
+
+------------End-----------
+------------Start-----------
+Vowel : vvvsg, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//vvvsg/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvsg/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvsg/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  700
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.361823361823
+Latent data : 
+Accuracy : 0.780626780627
+
+Number of training patterns:  701
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.402857142857
+Latent data : 
+Accuracy : 0.811428571429
+
+Number of training patterns:  701
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.477142857143
+Latent data : 
+Accuracy : 0.82
+
+------------End-----------
+------------Start-----------
+Vowel : No_duration_vvvsg, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//No_duration_vvvsg/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvsg/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvsg/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  700
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.361823361823
+Latent data : 
+Accuracy : 0.783475783476
+
+Number of training patterns:  701
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.402857142857
+Latent data : 
+Accuracy : 0.794285714286
+
+Number of training patterns:  701
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.391428571429
+Latent data : 
+Accuracy : 0.822857142857
+
+------------End-----------
+------------Start-----------
+Vowel : vvvsg, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//vvvsg/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvsg/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvsg/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  700
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.361823361823
+Latent data : 
+Accuracy : 0.894586894587
+
+Number of training patterns:  701
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.402857142857
+Latent data : 
+Accuracy : 0.885714285714
+
+Number of training patterns:  701
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.445714285714
+Latent data : 
+Accuracy : 0.857142857143
+
+------------End-----------
+------------Start-----------
+Vowel : No_duration_vvvsg, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//No_duration_vvvsg/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvsg/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvsg/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  700
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.361823361823
+Latent data : 
+Accuracy : 0.766381766382
+
+Number of training patterns:  701
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.462857142857
+Latent data : 
+Accuracy : 0.771428571429
+
+Number of training patterns:  701
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.391428571429
+Latent data : 
+Accuracy : 0.808571428571
+
+------------End-----------
+------------Start-----------
+Vowel : vvvsg, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//vvvsg/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvsg/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvsg/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  700
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.361823361823
+Latent data : 
+Accuracy : 0.837606837607
+
+Number of training patterns:  701
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.497142857143
+Latent data : 
+Accuracy : 0.811428571429
+
+Number of training patterns:  701
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.4
+Latent data : 
+Accuracy : 0.877142857143
+
+------------End-----------
+------------Start-----------
+Vowel : No_duration_vvvsg, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/10_tone_classification//No_duration_vvvsg/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvsg/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvsg/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Number of training patterns:  700
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.361823361823
+Latent data : 
+Accuracy : 0.737891737892
+
+Number of training patterns:  701
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.402857142857
+Latent data : 
+Accuracy : 0.742857142857
+
+Number of training patterns:  701
+Input and output dimensions:  26 5
+Plain data : 
+Accuracy : 0.391428571429
+Latent data : 
+Accuracy : 0.74
+
+------------End-----------

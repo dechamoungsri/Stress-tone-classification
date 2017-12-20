@@ -1,0 +1,118 @@
+warning in stationary: failed to import cython module: falling back to numpy
+None
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-True/BGP_LVM_Tone_2/
+/home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/Tonal_object/remove_all_silence_file//vvvsg/syllable_object_2.pickle
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-True/BGP_LVM_Tone_2//LABEL_TYPE_STRESS.eps
+[ 0.14892602  0.00745447  0.01246247  0.00802725  0.00831344  0.00889409
+  0.00894551  0.01072026  0.01075357  0.01090151]
+[0 2]
+[   6.71474326  134.1476626    80.24088922  124.57564803  120.28718378
+  112.43416906  111.7878746    93.2813073    92.99241214   91.73041304]
+Mean, min, max
+0.0623832178848 -0.0 0.39553165916
+Best :  (0.0023249999999999998, 6.0, 0.84862279196429735)
+Estimated number of clusters: 2
+Homogeneity: 0.825
+Completeness: 0.874
+V-measure: 0.849
+Adjusted Rand Index: 0.918
+Adjusted Mutual Information: 0.824
+709
+709
+syllable_positions 709
+(-2.0, 5.0) (-4.0, 4.0)
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-True/BGP_LVM_Tone_4/
+/home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/Tonal_object/remove_all_silence_file//vvvsg/syllable_object_4.pickle
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-True/BGP_LVM_Tone_4//LABEL_TYPE_STRESS.eps
+[ 0.00224269  0.0064995   0.00617591  0.00870308  0.00616906  0.0113656
+  0.00720747  0.00369142  0.00636334  0.00545804]
+[5 3]
+[ 445.8937706   153.85806926  161.91950759  114.90188915  162.09922955
+   87.98481524  138.74496187  270.89820125  157.15027886  183.21604006]
+Mean, min, max
+0.00232379164428 -0.0 0.0220097074004
+Best :  (0.00072499999999999995, 9.0, 0.72050603700842764)
+Estimated number of clusters: 2
+Homogeneity: 0.670
+Completeness: 0.779
+V-measure: 0.721
+Adjusted Rand Index: 0.819
+Adjusted Mutual Information: 0.665
+86
+86
+syllable_positions 86
+(-12.0, 6.0) (-8.0, 4.0)
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-True/BGP_LVM_Tone_1/
+/home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/Tonal_object/remove_all_silence_file//vvvsg/syllable_object_1.pickle
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-True/BGP_LVM_Tone_1//LABEL_TYPE_STRESS.eps
+[ 0.01356212  0.00937563  0.00761846  0.00881412  0.00806393  0.02009334
+  0.00860297  0.00812559  0.00809355  0.00877406]
+[5 0]
+[  73.73477033  106.65946518  131.26013973  113.45432188  124.00898426
+   49.76773382  116.23892737  123.06802315  123.55510148  113.97226265]
+Mean, min, max
+0.00247134755929 -0.0 0.0438958152118
+Best :  (0.00040000000000000002, 36.0, 0.29573495181497356)
+Estimated number of clusters: 2
+Homogeneity: 0.276
+Completeness: 0.319
+V-measure: 0.296
+Adjusted Rand Index: 0.371
+Adjusted Mutual Information: 0.275
+1230
+1230
+syllable_positions 1230
+(-6.0, 12.0) (-5.0, 4.0)
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-True/BGP_LVM_Tone_0/
+/home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/Tonal_object/remove_all_silence_file//vvvsg/syllable_object_0.pickle
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-True/BGP_LVM_Tone_0//LABEL_TYPE_STRESS.eps
+[ 0.0207152   0.00728209  0.00855985  0.00719877  0.00714599  0.0392378
+  0.00765981  0.00728084  0.00666433  0.00781822]
+[5 0]
+[  48.27373911  137.32315506  116.82446916  138.91264036  139.9386099
+   25.48563088  130.5514958   137.34684936  150.05255786  127.90639934]
+Mean, min, max
+0.00698674879782 -0.0 0.0748552586123
+Best :  (0.00042500000000000003, 9.0, 0.65169338714361857)
+Estimated number of clusters: 2
+Homogeneity: 0.653
+Completeness: 0.651
+V-measure: 0.652
+Adjusted Rand Index: 0.783
+Adjusted Mutual Information: 0.649
+646
+646
+syllable_positions 646
+(-4.0, 8.0) (-4.0, 6.0)
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-True/BGP_LVM_Tone_3/
+/home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/Tonal_object/remove_all_silence_file//vvvsg/syllable_object_3.pickle
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-True/BGP_LVM_Tone_3//LABEL_TYPE_STRESS.eps
+[ 0.00980667  0.00610096  0.00948781  0.00838953  0.00849457  0.02046541
+  0.00933779  0.00983498  0.00827759  0.00965247]
+[5 7]
+[ 101.9714628   163.90851291  105.3983613   119.196199    117.72221318
+   48.86293992  107.09172608  101.67791457  120.80813613  103.60037681]
+Mean, min, max
+0.0029950478271 -0.0 0.0452950157891
+Best :  (0.00042500000000000003, 22.0, 0.41770096277030472)
+Estimated number of clusters: 2
+Homogeneity: 0.362
+Completeness: 0.494
+V-measure: 0.418
+Adjusted Rand Index: 0.545
+Adjusted Mutual Information: 0.359
+672
+672
+syllable_positions 672
+(-14.0, 4.0) (-2.0, 2.5)
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-True/BGP_LVM_Tone_01234/
+/home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/Tonal_object/remove_all_silence_file//vvvsg/syllable_object_01234.pickle
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-True/BGP_LVM_Tone_01234//LABEL_TYPE_STRESS.eps
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-False/BGP_LVM_Tone_2/
+/home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/Tonal_object/remove_all_silence_file//vvvsg/syllable_object_2.pickle
+/work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/06_Tonal_part_projection_noise_reduction-250-iters-opt//vvvsg/input_dims_10/delta-True_delta-delta-False/BGP_LVM_Tone_2//LABEL_TYPE_STRESS.eps
+[ 0.24185926  0.02764016  0.01383263  0.01436352  0.01758902  0.0159609
+  0.02113252  0.02011978  0.02093118  0.02108222]
+[0 1]
+[  4.13463593  36.17923867  72.29285785  69.62083391  56.85363845
+  62.65309388  47.3204395   49.70234451  47.77561231  47.43333831]

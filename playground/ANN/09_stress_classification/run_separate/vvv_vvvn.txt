@@ -1,0 +1,2282 @@
+gamma.kbys.ip.titech.ac.jp
+2016-03-17 07:00:52
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 0
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_0/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_0_fold/syllable_object_0_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_0_fold/syllable_object_0_3-fold_
+2.32242737817e-05
+4.508390474e-05
+Number of training patterns:  745
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.900804289544
+Precision : [ 0.89212828  1.        ]
+Recall : [ 1.          0.44776119]
+F-1 : [ 0.94298921  0.6185567 ]
+Latent data : 
+warning in stationary: failed to import cython module: falling back to numpy
+0.0013421356838
+0.00267617384648
+Add acc when epoch:   50
+Accuracy : 0.991957104558
+Precision : [ 0.99029126  1.        ]
+Recall : [ 1.          0.95522388]
+F-1 : [ 0.99512195  0.97709924]
+
+2.29327897713e-05
+4.62189529522e-05
+Number of training patterns:  745
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.98927613941
+Precision : [ 0.98709677  1.        ]
+Recall : [ 1.          0.94029851]
+F-1 : [ 0.99350649  0.96923077]
+Latent data : 
+0.00134138445588
+0.00267857687444
+Add acc when epoch:   50
+Accuracy : 0.991957104558
+Precision : [ 0.99029126  1.        ]
+Recall : [ 1.          0.95522388]
+F-1 : [ 0.99512195  0.97709924]
+
+2.28299021747e-05
+4.66488257032e-05
+Number of training patterns:  746
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.981182795699
+Precision : [ 0.9775641  1.       ]
+Recall : [ 1.          0.89552239]
+F-1 : [ 0.98865478  0.94488189]
+Latent data : 
+0.00134033621917
+0.00268787695217
+Add acc when epoch:   50
+Accuracy : 0.989247311828
+Precision : [ 0.98705502  1.        ]
+Recall : [ 1.          0.94029851]
+F-1 : [ 0.99348534  0.96923077]
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 0
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_0/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_0_fold/syllable_object_0_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_0_fold/syllable_object_0_3-fold_
+2.32242737817e-05
+4.508390474e-05
+Number of training patterns:  745
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.895442359249
+Precision : [ 0.88695652  1.        ]
+Recall : [ 1.          0.41791045]
+F-1 : [ 0.94009217  0.58947368]
+Latent data : 
+0.00134204114013
+0.00267767993246
+Add acc when epoch:   50
+Accuracy : 0.98927613941
+Precision : [ 0.99346405  0.97014925]
+Recall : [ 0.99346405  0.97014925]
+F-1 : [ 0.99346405  0.97014925]
+
+2.29327897713e-05
+4.62189529522e-05
+Number of training patterns:  745
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.98927613941
+Precision : [ 0.98709677  1.        ]
+Recall : [ 1.          0.94029851]
+F-1 : [ 0.99350649  0.96923077]
+Latent data : 
+0.00134155852044
+0.00267659420858
+Add acc when epoch:   50
+Accuracy : 0.994638069705
+Precision : [ 0.99350649  1.        ]
+Recall : [ 1.          0.97014925]
+F-1 : [ 0.99674267  0.98484848]
+
+2.28299021747e-05
+4.66488257032e-05
+Number of training patterns:  746
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.978494623656
+Precision : [ 0.97444089  1.        ]
+Recall : [ 1.          0.88059701]
+F-1 : [ 0.98705502  0.93650794]
+Latent data : 
+0.00134001387501
+0.00268597279107
+Add acc when epoch:   50
+Accuracy : 0.994623655914
+Precision : [ 0.99348534  1.        ]
+Recall : [ 1.          0.97014925]
+F-1 : [ 0.99673203  0.98484848]
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 0
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_0/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_0_fold/syllable_object_0_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_0_fold/syllable_object_0_3-fold_
+2.32242737817e-05
+4.508390474e-05
+Number of training patterns:  745
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.986595174263
+Precision : [ 0.98392283  1.        ]
+Recall : [ 1.          0.92537313]
+F-1 : [ 0.99189627  0.96124031]
+Latent data : 
+0.00134207515352
+0.00267787867627
+Add acc when epoch:   50
+Accuracy : 0.994638069705
+Precision : [ 1.          0.97101449]
+Recall : [ 0.99346405  1.        ]
+F-1 : [ 0.99672131  0.98529412]
+
+2.29327897713e-05
+4.62189529522e-05
+Number of training patterns:  745
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.927613941019
+Precision : [ 0.91891892  1.        ]
+Recall : [ 1.          0.59701493]
+F-1 : [ 0.95774648  0.74766355]
+Latent data : 
+0.00134165188988
+0.0026753605136
+Add acc when epoch:   50
+Accuracy : 0.994638069705
+Precision : [ 0.99350649  1.        ]
+Recall : [ 1.          0.97014925]
+F-1 : [ 0.99674267  0.98484848]
+
+2.28299021747e-05
+4.66488257032e-05
+Number of training patterns:  746
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.983870967742
+Precision : [ 0.9807074  1.       ]
+Recall : [ 1.          0.91044776]
+F-1 : [ 0.99025974  0.953125  ]
+Latent data : 
+0.00133956005409
+0.00268488325544
+Add acc when epoch:   50
+Accuracy : 0.997311827957
+Precision : [ 0.99673203  1.        ]
+Recall : [ 1.          0.98507463]
+F-1 : [ 0.99836334  0.9924812 ]
+
+------------End-----------
+2016-03-17 07:07:35
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 1
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_1/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_1_fold/syllable_object_1_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_1_fold/syllable_object_1_3-fold_
+4.08940271661e-05
+8.14397369526e-05
+Number of training patterns:  562
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.982206405694
+Precision : [ 0.98039216  1.        ]
+Recall : [ 1.          0.83870968]
+F-1 : [ 0.99009901  0.9122807 ]
+Latent data : 
+0.00177668696247
+0.00355446745889
+Add acc when epoch:   50
+Accuracy : 0.992882562278
+Precision : [ 0.99206349  1.        ]
+Recall : [ 1.          0.93548387]
+F-1 : [ 0.99601594  0.96666667]
+
+4.08974531343e-05
+8.14442043266e-05
+Number of training patterns:  562
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.982206405694
+Precision : [ 0.98039216  1.        ]
+Recall : [ 1.          0.83870968]
+F-1 : [ 0.99009901  0.9122807 ]
+Latent data : 
+0.00177616197757
+0.00355665637514
+Add acc when epoch:   50
+Accuracy : 0.985765124555
+Precision : [ 0.98425197  1.        ]
+Recall : [ 1.          0.87096774]
+F-1 : [ 0.99206349  0.93103448]
+
+4.07255922181e-05
+8.21308551112e-05
+Number of training patterns:  562
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.989323843416
+Precision : [ 0.98814229  1.        ]
+Recall : [ 1.          0.90322581]
+F-1 : [ 0.99403579  0.94915254]
+Latent data : 
+0.00177827643248
+0.00354611606198
+Add acc when epoch:   50
+Accuracy : 0.989323843416
+Precision : [ 0.98814229  1.        ]
+Recall : [ 1.          0.90322581]
+F-1 : [ 0.99403579  0.94915254]
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 1
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_1/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_1_fold/syllable_object_1_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_1_fold/syllable_object_1_3-fold_
+4.08940271661e-05
+8.14397369526e-05
+Number of training patterns:  562
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.978647686833
+Precision : [ 0.9765625  1.       ]
+Recall : [ 1.          0.80645161]
+F-1 : [ 0.98814229  0.89285714]
+Latent data : 
+0.00177721047136
+0.00355530849509
+Add acc when epoch:   50
+Accuracy : 0.992882562278
+Precision : [ 0.99206349  1.        ]
+Recall : [ 1.          0.93548387]
+F-1 : [ 0.99601594  0.96666667]
+
+4.08974531343e-05
+8.14442043266e-05
+Number of training patterns:  562
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.982206405694
+Precision : [ 0.98039216  1.        ]
+Recall : [ 1.          0.83870968]
+F-1 : [ 0.99009901  0.9122807 ]
+Latent data : 
+0.00177731699642
+0.00355641321391
+Add acc when epoch:   50
+Accuracy : 0.985765124555
+Precision : [ 0.98425197  1.        ]
+Recall : [ 1.          0.87096774]
+F-1 : [ 0.99206349  0.93103448]
+
+4.07255922181e-05
+8.21308551112e-05
+Number of training patterns:  562
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.989323843416
+Precision : [ 0.98814229  1.        ]
+Recall : [ 1.          0.90322581]
+F-1 : [ 0.99403579  0.94915254]
+Latent data : 
+0.00177835043937
+0.00354807239987
+Add acc when epoch:   50
+Accuracy : 0.989323843416
+Precision : [ 0.98814229  1.        ]
+Recall : [ 1.          0.90322581]
+F-1 : [ 0.99403579  0.94915254]
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 1
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_1/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_1_fold/syllable_object_1_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_1_fold/syllable_object_1_3-fold_
+4.08940271661e-05
+8.14397369526e-05
+Number of training patterns:  562
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.992882562278
+Precision : [ 0.99206349  1.        ]
+Recall : [ 1.          0.93548387]
+F-1 : [ 0.99601594  0.96666667]
+Latent data : 
+0.00177742735723
+0.00355208558079
+Add acc when epoch:   50
+Accuracy : 0.992882562278
+Precision : [ 0.99206349  1.        ]
+Recall : [ 1.          0.93548387]
+F-1 : [ 0.99601594  0.96666667]
+
+4.08974531343e-05
+8.14442043266e-05
+Number of training patterns:  562
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.982206405694
+Precision : [ 0.98039216  1.        ]
+Recall : [ 1.          0.83870968]
+F-1 : [ 0.99009901  0.9122807 ]
+Latent data : 
+0.00177831749864
+0.00355688784823
+Add acc when epoch:   50
+Accuracy : 0.985765124555
+Precision : [ 0.98425197  1.        ]
+Recall : [ 1.          0.87096774]
+F-1 : [ 0.99206349  0.93103448]
+
+4.07255922181e-05
+8.21308551112e-05
+Number of training patterns:  562
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.982206405694
+Precision : [ 0.98039216  1.        ]
+Recall : [ 1.          0.83870968]
+F-1 : [ 0.99009901  0.9122807 ]
+Latent data : 
+0.00177796947779
+0.00354722514396
+Add acc when epoch:   50
+Accuracy : 0.989323843416
+Precision : [ 0.98814229  1.        ]
+Recall : [ 1.          0.90322581]
+F-1 : [ 0.99403579  0.94915254]
+
+------------End-----------
+2016-03-17 07:12:24
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 2
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_2/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_2_fold/syllable_object_2_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_2_fold/syllable_object_2_3-fold_
+3.31500016701e-05
+6.28558345557e-05
+Number of training patterns:  496
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.987951807229
+Precision : [ 0.98522167  1.        ]
+Recall : [ 1.          0.93877551]
+F-1 : [ 0.99255583  0.96842105]
+Latent data : 
+0.00201507599479
+0.00400768503748
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+
+3.23220106411e-05
+6.62044971195e-05
+Number of training patterns:  497
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.987903225806
+Precision : [ 0.99497487  0.95918367]
+Recall : [ 0.99        0.97916667]
+F-1 : [ 0.9924812   0.96907216]
+Latent data : 
+0.00201125821694
+0.00402861593066
+Add acc when epoch:   50
+Accuracy : 0.987903225806
+Precision : [ 1.          0.94117647]
+Recall : [ 0.985  1.   ]
+F-1 : [ 0.99244332  0.96969697]
+
+3.22706072562e-05
+6.63794741027e-05
+Number of training patterns:  497
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.987903225806
+Precision : [ 0.99004975  0.9787234 ]
+Recall : [ 0.995       0.95833333]
+F-1 : [ 0.9925187   0.96842105]
+Latent data : 
+0.0020109932792
+0.00402078414019
+Add acc when epoch:   50
+Accuracy : 0.995967741935
+Precision : [ 1.          0.97959184]
+Recall : [ 0.995  1.   ]
+F-1 : [ 0.99749373  0.98969072]
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 2
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_2/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_2_fold/syllable_object_2_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_2_fold/syllable_object_2_3-fold_
+3.31500016701e-05
+6.28558345557e-05
+Number of training patterns:  496
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.991967871486
+Precision : [ 0.99009901  1.        ]
+Recall : [ 1.          0.95918367]
+F-1 : [ 0.99502488  0.97916667]
+Latent data : 
+0.00201511960859
+0.00401045156046
+Add acc when epoch:   50
+Accuracy : 0.995983935743
+Precision : [ 0.99502488  1.        ]
+Recall : [ 1.          0.97959184]
+F-1 : [ 0.99750623  0.98969072]
+
+3.23220106411e-05
+6.62044971195e-05
+Number of training patterns:  497
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.987903225806
+Precision : [ 0.99497487  0.95918367]
+Recall : [ 0.99        0.97916667]
+F-1 : [ 0.9924812   0.96907216]
+Latent data : 
+0.00201086230144
+0.00402148497345
+Add acc when epoch:   50
+Accuracy : 0.991935483871
+Precision : [ 1.    0.96]
+Recall : [ 0.99  1.  ]
+F-1 : [ 0.99497487  0.97959184]
+
+3.22706072562e-05
+6.63794741027e-05
+Number of training patterns:  497
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.987903225806
+Precision : [ 0.99004975  0.9787234 ]
+Recall : [ 0.995       0.95833333]
+F-1 : [ 0.9925187   0.96842105]
+Latent data : 
+0.00201039758046
+0.00401990818509
+Add acc when epoch:   50
+Accuracy : 0.987903225806
+Precision : [ 0.99004975  0.9787234 ]
+Recall : [ 0.995       0.95833333]
+F-1 : [ 0.9925187   0.96842105]
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 2
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_2/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_2_fold/syllable_object_2_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_2_fold/syllable_object_2_3-fold_
+3.31500016701e-05
+6.28558345557e-05
+Number of training patterns:  496
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.991967871486
+Precision : [ 0.99009901  1.        ]
+Recall : [ 1.          0.95918367]
+F-1 : [ 0.99502488  0.97916667]
+Latent data : 
+0.002014990203
+0.0040097852289
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+
+3.23220106411e-05
+6.62044971195e-05
+Number of training patterns:  497
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.987903225806
+Precision : [ 0.99497487  0.95918367]
+Recall : [ 0.99        0.97916667]
+F-1 : [ 0.9924812   0.96907216]
+Latent data : 
+0.00201086452633
+0.00402340379047
+Add acc when epoch:   50
+Accuracy : 0.991935483871
+Precision : [ 1.    0.96]
+Recall : [ 0.99  1.  ]
+F-1 : [ 0.99497487  0.97959184]
+
+3.22706072562e-05
+6.63794741027e-05
+Number of training patterns:  497
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.995967741935
+Precision : [ 1.          0.97959184]
+Recall : [ 0.995  1.   ]
+F-1 : [ 0.99749373  0.98969072]
+Latent data : 
+0.00201046480211
+0.00401800060748
+Add acc when epoch:   50
+Accuracy : 0.991935483871
+Precision : [ 0.995       0.97916667]
+Recall : [ 0.995       0.97916667]
+F-1 : [ 0.995       0.97916667]
+
+------------End-----------
+2016-03-17 07:16:32
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 3
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_3/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_3_fold/syllable_object_3_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_3_fold/syllable_object_3_3-fold_
+3.4843068543e-05
+6.83707898562e-05
+Number of training patterns:  606
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.983552631579
+Precision : [ 0.98113208  1.        ]
+Recall : [ 1.          0.88636364]
+F-1 : [ 0.99047619  0.93975904]
+Latent data : 
+0.00164802961569
+0.00327475720039
+Add acc when epoch:   50
+Accuracy : 0.986842105263
+Precision : [ 0.98484848  1.        ]
+Recall : [ 1.          0.90909091]
+F-1 : [ 0.99236641  0.95238095]
+
+3.44794787071e-05
+6.98070048491e-05
+Number of training patterns:  606
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.983552631579
+Precision : [ 0.98113208  1.        ]
+Recall : [ 1.          0.88636364]
+F-1 : [ 0.99047619  0.93975904]
+Latent data : 
+0.00164929708524
+0.00328010828428
+Add acc when epoch:   50
+Accuracy : 0.986842105263
+Precision : [ 0.98484848  1.        ]
+Recall : [ 1.          0.90909091]
+F-1 : [ 0.99236641  0.95238095]
+
+3.45597873255e-05
+6.95392207653e-05
+Number of training patterns:  608
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.973509933775
+Precision : [ 0.97003745  1.        ]
+Recall : [ 1.          0.81395349]
+F-1 : [ 0.98479087  0.8974359 ]
+Latent data : 
+0.00164307075312
+0.0033057149835
+Add acc when epoch:   50
+Accuracy : 0.973509933775
+Precision : [ 0.97003745  1.        ]
+Recall : [ 1.          0.81395349]
+F-1 : [ 0.98479087  0.8974359 ]
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 3
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_3/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_3_fold/syllable_object_3_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_3_fold/syllable_object_3_3-fold_
+3.4843068543e-05
+6.83707898562e-05
+Number of training patterns:  606
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.976973684211
+Precision : [ 0.97378277  1.        ]
+Recall : [ 1.          0.84090909]
+F-1 : [ 0.98671727  0.91358025]
+Latent data : 
+0.00164800905023
+0.00327299890062
+Add acc when epoch:   50
+Accuracy : 0.990131578947
+Precision : [ 0.98859316  1.        ]
+Recall : [ 1.          0.93181818]
+F-1 : [ 0.99426386  0.96470588]
+
+3.44794787071e-05
+6.98070048491e-05
+Number of training patterns:  606
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.980263157895
+Precision : [ 0.97744361  1.        ]
+Recall : [ 1.          0.86363636]
+F-1 : [ 0.98859316  0.92682927]
+Latent data : 
+0.00164765082326
+0.00327299471278
+Add acc when epoch:   50
+Accuracy : 0.983552631579
+Precision : [ 0.98113208  1.        ]
+Recall : [ 1.          0.88636364]
+F-1 : [ 0.99047619  0.93975904]
+
+3.45597873255e-05
+6.95392207653e-05
+Number of training patterns:  608
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.973509933775
+Precision : [ 0.97003745  1.        ]
+Recall : [ 1.          0.81395349]
+F-1 : [ 0.98479087  0.8974359 ]
+Latent data : 
+0.00164353769374
+0.00330687659223
+Add acc when epoch:   50
+Accuracy : 0.980132450331
+Precision : [ 0.97735849  1.        ]
+Recall : [ 1.          0.86046512]
+F-1 : [ 0.98854962  0.925     ]
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 3
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_3/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_3_fold/syllable_object_3_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_3_fold/syllable_object_3_3-fold_
+3.4843068543e-05
+6.83707898562e-05
+Number of training patterns:  606
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.990131578947
+Precision : [ 0.98859316  1.        ]
+Recall : [ 1.          0.93181818]
+F-1 : [ 0.99426386  0.96470588]
+Latent data : 
+0.00164822084752
+0.00327716507969
+Add acc when epoch:   50
+Accuracy : 0.986842105263
+Precision : [ 0.98484848  1.        ]
+Recall : [ 1.          0.90909091]
+F-1 : [ 0.99236641  0.95238095]
+
+3.44794787071e-05
+6.98070048491e-05
+Number of training patterns:  606
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.980263157895
+Precision : [ 0.97744361  1.        ]
+Recall : [ 1.          0.86363636]
+F-1 : [ 0.98859316  0.92682927]
+Latent data : 
+0.00164724590396
+0.00327861800458
+Add acc when epoch:   50
+Accuracy : 0.986842105263
+Precision : [ 0.98484848  1.        ]
+Recall : [ 1.          0.90909091]
+F-1 : [ 0.99236641  0.95238095]
+
+3.45597873255e-05
+6.95392207653e-05
+Number of training patterns:  608
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.970198675497
+Precision : [ 0.96641791  1.        ]
+Recall : [ 1.          0.79069767]
+F-1 : [ 0.9829222   0.88311688]
+Latent data : 
+0.00164370144331
+0.00330306416954
+Add acc when epoch:   50
+Accuracy : 0.996688741722
+Precision : [ 0.99615385  1.        ]
+Recall : [ 1.          0.97674419]
+F-1 : [ 0.99807322  0.98823529]
+
+------------End-----------
+2016-03-17 07:21:45
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 4
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_4/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_4_fold/syllable_object_4_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_4_fold/syllable_object_4_3-fold_
+7.40240618719e-05
+0.000143320081435
+Number of training patterns:  182
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+Latent data : 
+0.00549305738485
+0.0108500922772
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+
+7.44733993305e-05
+0.000141220722099
+Number of training patterns:  182
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+Latent data : 
+0.00549276857416
+0.0108684813117
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+
+7.12016079494e-05
+0.000154777027746
+Number of training patterns:  184
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+Latent data : 
+0.00543183014159
+0.011091971782
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 4
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_4/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_4_fold/syllable_object_4_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_4_fold/syllable_object_4_3-fold_
+7.40240618719e-05
+0.000143320081435
+Number of training patterns:  182
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+Latent data : 
+0.00548310936668
+0.0107970834223
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+
+7.44733993305e-05
+0.000141220722099
+Number of training patterns:  182
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+Latent data : 
+0.00549042506908
+0.0108292053601
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+
+7.12016079494e-05
+0.000154777027746
+Number of training patterns:  184
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+Latent data : 
+0.00543140467356
+0.0110860097956
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 4
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_4/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_4_fold/syllable_object_4_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_4_fold/syllable_object_4_3-fold_
+7.40240618719e-05
+0.000143320081435
+Number of training patterns:  182
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+Latent data : 
+0.0054863677171
+0.0108085003115
+Add acc when epoch:   50
+Accuracy : 0.989130434783
+Precision : [ 0.98611111  1.        ]
+Recall : [ 1.          0.95238095]
+F-1 : [ 0.99300699  0.97560976]
+
+7.44733993305e-05
+0.000141220722099
+Number of training patterns:  182
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+Latent data : 
+0.00548913042986
+0.0108094854042
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+
+7.12016079494e-05
+0.000154777027746
+Number of training patterns:  184
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.977777777778
+Precision : [ 0.97222222  1.        ]
+Recall : [ 1.   0.9]
+F-1 : [ 0.98591549  0.94736842]
+Latent data : 
+0.00542602280453
+0.0110675803053
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+
+------------End-----------
+2016-03-17 07:23:08
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+7.42438502424e-06
+1.48491444919e-05
+Number of training patterns:  2593
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:    5
+Accuracy : 0.838087895143
+Precision : [ 0.83796296  1.        ]
+Recall : [ 1.          0.00473934]
+F-1 : [ 0.91183879  0.00943396]
+Latent data : 
+0.000385602045052
+0.000770826617231
+Add acc when epoch:   24
+Accuracy : 0.839629915189
+Precision : [ 0.83925811  1.        ]
+Recall : [ 1.          0.01421801]
+F-1 : [ 0.91260504  0.02803738]
+
+7.41836620667e-06
+1.48747317725e-05
+Number of training patterns:  2593
+Input and output dimensions:  26 2
+Plain data : 
+No acc
+Accuracy : 0.0
+Precision : []
+Recall : []
+F-1 : []
+Latent data : 
+0.000385621837601
+0.000770879858551
+Add acc when epoch:   39
+Accuracy : 0.841171935235
+Precision : [ 0.84055728  1.        ]
+Recall : [ 1.          0.02369668]
+F-1 : [ 0.91337258  0.0462963 ]
+
+7.43225125284e-06
+1.48220699687e-05
+Number of training patterns:  2594
+Input and output dimensions:  26 2
+Plain data : 
+No acc
+Accuracy : 0.0
+Precision : []
+Recall : []
+F-1 : []
+Latent data : 
+0.000385455065109
+0.000771489564747
+Add acc when epoch:   34
+Accuracy : 0.838734567901
+Precision : [ 0.83861004  1.        ]
+Recall : [ 1.         0.0047619]
+F-1 : [ 0.91222176  0.00947867]
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+7.42438502424e-06
+1.48491444919e-05
+Number of training patterns:  2593
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:    2
+Accuracy : 0.838858905166
+Precision : [ 0.83861004  1.        ]
+Recall : [ 1.          0.00947867]
+F-1 : [ 0.91222176  0.01877934]
+Latent data : 
+0.000385595707538
+0.000770858661951
+Add acc when epoch:   49
+Accuracy : 0.838087895143
+Precision : [ 0.83796296  1.        ]
+Recall : [ 1.          0.00473934]
+F-1 : [ 0.91183879  0.00943396]
+
+7.41836620667e-06
+1.48747317725e-05
+Number of training patterns:  2593
+Input and output dimensions:  26 2
+Plain data : 
+No acc
+Accuracy : 0.0
+Precision : []
+Recall : []
+F-1 : []
+Latent data : 
+0.000385625466527
+0.000770845540832
+Add acc when epoch:   48
+Accuracy : 0.841942945258
+Precision : [ 0.84120837  1.        ]
+Recall : [ 1.          0.02843602]
+F-1 : [ 0.91375684  0.05529954]
+
+7.43225125284e-06
+1.48220699687e-05
+Number of training patterns:  2594
+Input and output dimensions:  26 2
+Plain data : 
+No acc
+Accuracy : 0.0
+Precision : []
+Recall : []
+F-1 : []
+Latent data : 
+0.00038546672321
+0.000771492540405
+Add acc when epoch:   50
+Accuracy : 0.843364197531
+Precision : [ 0.84251358  1.        ]
+Recall : [ 1.          0.03333333]
+F-1 : [ 0.91452632  0.06451613]
+
+------------End-----------
+------------Start-----------
+Vowel : vvv, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvv/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvv/syllable_object_01234_fold/syllable_object_01234_3-fold_
+7.42438502424e-06
+1.48491444919e-05
+Number of training patterns:  2593
+Input and output dimensions:  26 2
+Plain data : 
+No acc
+Accuracy : 0.0
+Precision : []
+Recall : []
+F-1 : []
+Latent data : 
+0.000385617308014
+0.000770864445147
+Add acc when epoch:   50
+Accuracy : 0.838087895143
+Precision : [ 0.83796296  1.        ]
+Recall : [ 1.          0.00473934]
+F-1 : [ 0.91183879  0.00943396]
+
+7.41836620667e-06
+1.48747317725e-05
+Number of training patterns:  2593
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:    2
+Accuracy : 0.861218195837
+Precision : [ 0.85781991  1.        ]
+Recall : [ 1.          0.14691943]
+F-1 : [ 0.92346939  0.25619835]
+Latent data : 
+0.000385623928279
+0.000770823445391
+Add acc when epoch:   50
+Accuracy : 0.839629915189
+Precision : [ 0.83925811  1.        ]
+Recall : [ 1.          0.01421801]
+F-1 : [ 0.91260504  0.02803738]
+
+7.43225125284e-06
+1.48220699687e-05
+Number of training patterns:  2594
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:    6
+Accuracy : 0.840277777778
+Precision : [ 0.83990719  1.        ]
+Recall : [ 1.          0.01428571]
+F-1 : [ 0.91298865  0.02816901]
+Latent data : 
+0.000385467218694
+0.000771449016362
+Add acc when epoch:   50
+Accuracy : 0.83950617284
+Precision : [ 0.83925811  1.        ]
+Recall : [ 1.          0.00952381]
+F-1 : [ 0.91260504  0.01886792]
+
+------------End-----------
+2016-03-17 08:06:10
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 0
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_0/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_0_fold/syllable_object_0_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_0_fold/syllable_object_0_3-fold_
+7.43262713407e-06
+1.52468241266e-05
+Number of training patterns:  1474
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   11
+Accuracy : 0.750339213026
+Precision : [ 0.74965986  1.        ]
+Recall : [ 1.          0.01075269]
+F-1 : [ 0.85692068  0.0212766 ]
+Latent data : 
+0.000677913746072
+0.00135640170659
+Add acc when epoch:   50
+Accuracy : 0.964721845319
+Precision : [ 0.95493934  1.        ]
+Recall : [ 1.          0.86021505]
+F-1 : [ 0.97695035  0.92485549]
+
+7.56959047971e-06
+1.46776066759e-05
+Number of training patterns:  1474
+Input and output dimensions:  26 2
+Plain data : 
+No acc
+Accuracy : 0.0
+Precision : []
+Recall : []
+F-1 : []
+Latent data : 
+0.000678253028178
+0.00135516736474
+Add acc when epoch:   50
+Accuracy : 0.945725915875
+Precision : [ 0.9323181  1.       ]
+Recall : [ 1.          0.78494624]
+F-1 : [ 0.96497373  0.87951807]
+
+7.4827587602e-06
+1.50226523013e-05
+Number of training patterns:  1474
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   17
+Accuracy : 0.755766621438
+Precision : [ 0.75376197  1.        ]
+Recall : [ 1.          0.03225806]
+F-1 : [ 0.85959438  0.0625    ]
+Latent data : 
+0.000678291622151
+0.0013543070578
+Add acc when epoch:   50
+Accuracy : 0.925373134328
+Precision : [ 0.90924092  1.        ]
+Recall : [ 1.          0.70430108]
+F-1 : [ 0.95246327  0.82649842]
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 0
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_0/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_0_fold/syllable_object_0_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_0_fold/syllable_object_0_3-fold_
+7.43262713407e-06
+1.52468241266e-05
+Number of training patterns:  1474
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   20
+Accuracy : 0.823609226594
+Precision : [ 0.80910426  1.        ]
+Recall : [ 1.          0.30107527]
+F-1 : [ 0.89448052  0.46280992]
+Latent data : 
+0.000678119749443
+0.00135617076727
+Add acc when epoch:   50
+Accuracy : 0.953867028494
+Precision : [ 0.94188034  1.        ]
+Recall : [ 1.         0.8172043]
+F-1 : [ 0.97007042  0.89940828]
+
+7.56959047971e-06
+1.46776066759e-05
+Number of training patterns:  1474
+Input and output dimensions:  26 2
+Plain data : 
+No acc
+Accuracy : 0.0
+Precision : []
+Recall : []
+F-1 : []
+Latent data : 
+0.000678320665098
+0.00135572077959
+Add acc when epoch:   50
+Accuracy : 0.922659430122
+Precision : [ 0.90625  1.     ]
+Recall : [ 1.          0.69354839]
+F-1 : [ 0.95081967  0.81904762]
+
+7.4827587602e-06
+1.50226523013e-05
+Number of training patterns:  1474
+Input and output dimensions:  26 2
+Plain data : 
+No acc
+Accuracy : 0.0
+Precision : []
+Recall : []
+F-1 : []
+Latent data : 
+0.000678250247488
+0.0013553699835
+Add acc when epoch:   50
+Accuracy : 0.962008141113
+Precision : [ 0.95478261  0.98765432]
+Recall : [ 0.99637024  0.86021505]
+F-1 : [ 0.97513321  0.91954023]
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 0
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_0/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_0_fold/syllable_object_0_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_0_fold/syllable_object_0_3-fold_
+7.43262713407e-06
+1.52468241266e-05
+Number of training patterns:  1474
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   12
+Accuracy : 0.780189959294
+Precision : [ 0.77279102  1.        ]
+Recall : [ 1.          0.12903226]
+F-1 : [ 0.87183544  0.22857143]
+Latent data : 
+0.00067819865783
+0.00135606292413
+Add acc when epoch:   50
+Accuracy : 0.953867028494
+Precision : [ 0.94188034  1.        ]
+Recall : [ 1.         0.8172043]
+F-1 : [ 0.97007042  0.89940828]
+
+7.56959047971e-06
+1.46776066759e-05
+Number of training patterns:  1474
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:    8
+Accuracy : 0.854816824966
+Precision : [ 0.83738602  1.        ]
+Recall : [ 1.          0.42473118]
+F-1 : [ 0.91149711  0.59622642]
+Latent data : 
+0.000678102279368
+0.00135544541633
+Add acc when epoch:   50
+Accuracy : 0.952510176391
+Precision : [ 0.94027304  1.        ]
+Recall : [ 1.          0.81182796]
+F-1 : [ 0.96921724  0.89614243]
+
+7.4827587602e-06
+1.50226523013e-05
+Number of training patterns:  1474
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:    8
+Accuracy : 0.755766621438
+Precision : [ 0.75376197  1.        ]
+Recall : [ 1.          0.03225806]
+F-1 : [ 0.85959438  0.0625    ]
+Latent data : 
+0.000678222027177
+0.00135401643042
+Add acc when epoch:   50
+Accuracy : 0.960651289009
+Precision : [ 0.95155709  0.99371069]
+Recall : [ 0.99818512  0.84946237]
+F-1 : [ 0.97431355  0.91594203]
+
+------------End-----------
+2016-03-17 08:26:33
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 1
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_1/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_1_fold/syllable_object_1_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_1_fold/syllable_object_1_3-fold_
+2.88534704515e-05
+5.62612566833e-05
+Number of training patterns:  303
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.97385620915
+Precision : [ 0.95604396  1.        ]
+Recall : [ 1.          0.93939394]
+F-1 : [ 0.97752809  0.96875   ]
+Latent data : 
+0.00329701656113
+0.0064794306044
+Add acc when epoch:   50
+Accuracy : 0.97385620915
+Precision : [ 0.95604396  1.        ]
+Recall : [ 1.          0.93939394]
+F-1 : [ 0.97752809  0.96875   ]
+
+2.86351907997e-05
+5.67290975854e-05
+Number of training patterns:  304
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.953947368421
+Precision : [ 0.92473118  1.        ]
+Recall : [ 1.          0.89393939]
+F-1 : [ 0.96089385  0.944     ]
+Latent data : 
+0.00328336094602
+0.00654773059299
+Add acc when epoch:   50
+Accuracy : 0.960526315789
+Precision : [ 0.94444444  0.98387097]
+Recall : [ 0.98837209  0.92424242]
+F-1 : [ 0.96590909  0.953125  ]
+
+2.83170108527e-05
+5.82826123331e-05
+Number of training patterns:  305
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.980132450331
+Precision : [ 0.96629213  1.        ]
+Recall : [ 1.          0.95384615]
+F-1 : [ 0.98285714  0.97637795]
+Latent data : 
+0.00326806815577
+0.00659516582858
+Add acc when epoch:   50
+Accuracy : 0.973509933775
+Precision : [ 0.95555556  1.        ]
+Recall : [ 1.          0.93846154]
+F-1 : [ 0.97727273  0.96825397]
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 1
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_1/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_1_fold/syllable_object_1_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_1_fold/syllable_object_1_3-fold_
+2.88534704515e-05
+5.62612566833e-05
+Number of training patterns:  303
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.954248366013
+Precision : [ 0.92553191  1.        ]
+Recall : [ 1.          0.89393939]
+F-1 : [ 0.96132597  0.944     ]
+Latent data : 
+0.00329770674851
+0.00644935109654
+Add acc when epoch:   50
+Accuracy : 0.97385620915
+Precision : [ 0.95604396  1.        ]
+Recall : [ 1.          0.93939394]
+F-1 : [ 0.97752809  0.96875   ]
+
+2.86351907997e-05
+5.67290975854e-05
+Number of training patterns:  304
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.953947368421
+Precision : [ 0.92473118  1.        ]
+Recall : [ 1.          0.89393939]
+F-1 : [ 0.96089385  0.944     ]
+Latent data : 
+0.00328122787446
+0.00654795725389
+Add acc when epoch:   50
+Accuracy : 0.953947368421
+Precision : [ 0.92473118  1.        ]
+Recall : [ 1.          0.89393939]
+F-1 : [ 0.96089385  0.944     ]
+
+2.83170108527e-05
+5.82826123331e-05
+Number of training patterns:  305
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.940397350993
+Precision : [ 0.90526316  1.        ]
+Recall : [ 1.          0.86153846]
+F-1 : [ 0.95027624  0.92561983]
+Latent data : 
+0.00326276951632
+0.0065988178487
+Add acc when epoch:   50
+Accuracy : 0.986754966887
+Precision : [ 0.97727273  1.        ]
+Recall : [ 1.          0.96923077]
+F-1 : [ 0.98850575  0.984375  ]
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 1
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_1/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_1_fold/syllable_object_1_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_1_fold/syllable_object_1_3-fold_
+2.88534704515e-05
+5.62612566833e-05
+Number of training patterns:  303
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.980392156863
+Precision : [ 0.96666667  1.        ]
+Recall : [ 1.          0.95454545]
+F-1 : [ 0.98305085  0.97674419]
+Latent data : 
+0.00329606233364
+0.00646800110823
+Add acc when epoch:   50
+Accuracy : 0.97385620915
+Precision : [ 0.95604396  1.        ]
+Recall : [ 1.          0.93939394]
+F-1 : [ 0.97752809  0.96875   ]
+
+2.86351907997e-05
+5.67290975854e-05
+Number of training patterns:  304
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.973684210526
+Precision : [ 0.96590909  0.984375  ]
+Recall : [ 0.98837209  0.95454545]
+F-1 : [ 0.97701149  0.96923077]
+Latent data : 
+0.00328083628124
+0.00655425718208
+Add acc when epoch:   50
+Accuracy : 0.967105263158
+Precision : [ 0.95505618  0.98412698]
+Recall : [ 0.98837209  0.93939394]
+F-1 : [ 0.97142857  0.96124031]
+
+2.83170108527e-05
+5.82826123331e-05
+Number of training patterns:  305
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.966887417219
+Precision : [ 0.94505495  1.        ]
+Recall : [ 1.          0.92307692]
+F-1 : [ 0.97175141  0.96      ]
+Latent data : 
+0.00326885084913
+0.00658731691033
+Add acc when epoch:   50
+Accuracy : 0.980132450331
+Precision : [ 0.96629213  1.        ]
+Recall : [ 1.          0.95384615]
+F-1 : [ 0.98285714  0.97637795]
+
+------------End-----------
+2016-03-17 08:28:59
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 2
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_2/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_2_fold/syllable_object_2_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_2_fold/syllable_object_2_3-fold_
+2.01247985132e-05
+4.59145655906e-05
+Number of training patterns:  395
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.94472361809
+Precision : [ 0.93233083  0.96969697]
+Recall : [ 0.98412698  0.87671233]
+F-1 : [ 0.95752896  0.92086331]
+Latent data : 
+0.00252687674022
+0.00499798621057
+Add acc when epoch:   50
+Accuracy : 0.984924623116
+Precision : [ 0.992       0.97297297]
+Recall : [ 0.98412698  0.98630137]
+F-1 : [ 0.98804781  0.97959184]
+
+2.15356111172e-05
+4.04577425348e-05
+Number of training patterns:  396
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.944444444444
+Precision : [ 0.91970803  1.        ]
+Recall : [ 1.          0.84722222]
+F-1 : [ 0.9581749   0.91729323]
+Latent data : 
+0.00251993673202
+0.00501611266673
+Add acc when epoch:   50
+Accuracy : 1.0
+Precision : [ 1.  1.]
+Recall : [ 1.  1.]
+F-1 : [ 1.  1.]
+
+2.16146267687e-05
+3.99426905032e-05
+Number of training patterns:  397
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.969543147208
+Precision : [ 0.95419847  1.        ]
+Recall : [ 1.          0.91666667]
+F-1 : [ 0.9765625   0.95652174]
+Latent data : 
+0.00251776915286
+0.00505516092786
+Add acc when epoch:   50
+Accuracy : 0.994923857868
+Precision : [ 0.99206349  1.        ]
+Recall : [ 1.          0.98611111]
+F-1 : [ 0.99601594  0.99300699]
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 2
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_2/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_2_fold/syllable_object_2_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_2_fold/syllable_object_2_3-fold_
+2.01247985132e-05
+4.59145655906e-05
+Number of training patterns:  395
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.984924623116
+Precision : [ 0.992       0.97297297]
+Recall : [ 0.98412698  0.98630137]
+F-1 : [ 0.98804781  0.97959184]
+Latent data : 
+0.00252876561604
+0.00500252312215
+Add acc when epoch:   50
+Accuracy : 0.984924623116
+Precision : [ 0.992       0.97297297]
+Recall : [ 0.98412698  0.98630137]
+F-1 : [ 0.98804781  0.97959184]
+
+2.15356111172e-05
+4.04577425348e-05
+Number of training patterns:  396
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.989898989899
+Precision : [ 0.984375  1.      ]
+Recall : [ 1.          0.97222222]
+F-1 : [ 0.99212598  0.98591549]
+Latent data : 
+0.00251943111065
+0.00501690011994
+Add acc when epoch:   50
+Accuracy : 0.994949494949
+Precision : [ 0.99212598  1.        ]
+Recall : [ 1.          0.98611111]
+F-1 : [ 0.99604743  0.99300699]
+
+2.16146267687e-05
+3.99426905032e-05
+Number of training patterns:  397
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.994923857868
+Precision : [ 0.99206349  1.        ]
+Recall : [ 1.          0.98611111]
+F-1 : [ 0.99601594  0.99300699]
+Latent data : 
+0.0025158910045
+0.00504626293642
+Add acc when epoch:   50
+Accuracy : 0.979695431472
+Precision : [ 0.96899225  1.        ]
+Recall : [ 1.          0.94444444]
+F-1 : [ 0.98425197  0.97142857]
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 2
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_2/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_2_fold/syllable_object_2_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_2_fold/syllable_object_2_3-fold_
+2.01247985132e-05
+4.59145655906e-05
+Number of training patterns:  395
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.984924623116
+Precision : [ 0.992       0.97297297]
+Recall : [ 0.98412698  0.98630137]
+F-1 : [ 0.98804781  0.97959184]
+Latent data : 
+0.00252827611798
+0.00499269584131
+Add acc when epoch:   50
+Accuracy : 0.979899497487
+Precision : [ 0.98412698  0.97260274]
+Recall : [ 0.98412698  0.97260274]
+F-1 : [ 0.98412698  0.97260274]
+
+2.15356111172e-05
+4.04577425348e-05
+Number of training patterns:  396
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.994949494949
+Precision : [ 0.99212598  1.        ]
+Recall : [ 1.          0.98611111]
+F-1 : [ 0.99604743  0.99300699]
+Latent data : 
+0.00252205970619
+0.00502761741284
+Add acc when epoch:   50
+Accuracy : 0.994949494949
+Precision : [ 0.99212598  1.        ]
+Recall : [ 1.          0.98611111]
+F-1 : [ 0.99604743  0.99300699]
+
+2.16146267687e-05
+3.99426905032e-05
+Number of training patterns:  397
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.959390862944
+Precision : [ 0.99159664  0.91025641]
+Recall : [ 0.944       0.98611111]
+F-1 : [ 0.96721311  0.94666667]
+Latent data : 
+0.00251294818521
+0.00503605842436
+Add acc when epoch:   50
+Accuracy : 0.989847715736
+Precision : [ 0.98425197  1.        ]
+Recall : [ 1.          0.97222222]
+F-1 : [ 0.99206349  0.98591549]
+
+------------End-----------
+2016-03-17 08:32:12
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 3
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_3/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_3_fold/syllable_object_3_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_3_fold/syllable_object_3_3-fold_
+7.08674124304e-05
+0.000133386017004
+Number of training patterns:  122
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.968253968254
+Precision : [ 0.94444444  1.        ]
+Recall : [ 1.          0.93103448]
+F-1 : [ 0.97142857  0.96428571]
+Latent data : 
+0.00817801151331
+0.0157394198802
+Add acc when epoch:   50
+Accuracy : 0.968253968254
+Precision : [ 0.94444444  1.        ]
+Recall : [ 1.          0.93103448]
+F-1 : [ 0.97142857  0.96428571]
+
+6.72050983484e-05
+0.0001488397597
+Number of training patterns:  124
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.967213114754
+Precision : [ 0.94285714  1.        ]
+Recall : [ 1.          0.92857143]
+F-1 : [ 0.97058824  0.96296296]
+Latent data : 
+0.00804873417182
+0.0162695918903
+Add acc when epoch:   50
+Accuracy : 0.967213114754
+Precision : [ 0.94285714  1.        ]
+Recall : [ 1.          0.92857143]
+F-1 : [ 0.97058824  0.96296296]
+
+7.0672358042e-05
+0.000134562665906
+Number of training patterns:  124
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.901639344262
+Precision : [ 0.84615385  1.        ]
+Recall : [ 1.          0.78571429]
+F-1 : [ 0.91666667  0.88      ]
+Latent data : 
+0.00806204442182
+0.0163636770285
+Add acc when epoch:   50
+Accuracy : 0.934426229508
+Precision : [ 0.91428571  0.96153846]
+Recall : [ 0.96969697  0.89285714]
+F-1 : [ 0.94117647  0.92592593]
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 3
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_3/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_3_fold/syllable_object_3_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_3_fold/syllable_object_3_3-fold_
+7.08674124304e-05
+0.000133386017004
+Number of training patterns:  122
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.968253968254
+Precision : [ 0.94444444  1.        ]
+Recall : [ 1.          0.93103448]
+F-1 : [ 0.97142857  0.96428571]
+Latent data : 
+0.00818426198847
+0.0157294532711
+Add acc when epoch:   50
+Accuracy : 0.968253968254
+Precision : [ 1.          0.93548387]
+Recall : [ 0.94117647  1.        ]
+F-1 : [ 0.96969697  0.96666667]
+
+6.72050983484e-05
+0.0001488397597
+Number of training patterns:  124
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.967213114754
+Precision : [ 0.94285714  1.        ]
+Recall : [ 1.          0.92857143]
+F-1 : [ 0.97058824  0.96296296]
+Latent data : 
+0.00804394008042
+0.0163145223108
+Add acc when epoch:   50
+Accuracy : 0.967213114754
+Precision : [ 0.94285714  1.        ]
+Recall : [ 1.          0.92857143]
+F-1 : [ 0.97058824  0.96296296]
+
+7.0672358042e-05
+0.000134562665906
+Number of training patterns:  124
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.934426229508
+Precision : [ 0.91428571  0.96153846]
+Recall : [ 0.96969697  0.89285714]
+F-1 : [ 0.94117647  0.92592593]
+Latent data : 
+0.00805206406385
+0.0162819480412
+Add acc when epoch:   50
+Accuracy : 0.950819672131
+Precision : [ 0.94117647  0.96296296]
+Recall : [ 0.96969697  0.92857143]
+F-1 : [ 0.95522388  0.94545455]
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 3
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_3/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_3_fold/syllable_object_3_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_3_fold/syllable_object_3_3-fold_
+7.08674124304e-05
+0.000133386017004
+Number of training patterns:  122
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.952380952381
+Precision : [ 0.91891892  1.        ]
+Recall : [ 1.          0.89655172]
+F-1 : [ 0.95774648  0.94545455]
+Latent data : 
+0.00816107596524
+0.0157498545355
+Add acc when epoch:   50
+Accuracy : 0.952380952381
+Precision : [ 1.       0.90625]
+Recall : [ 0.91176471  1.        ]
+F-1 : [ 0.95384615  0.95081967]
+
+6.72050983484e-05
+0.0001488397597
+Number of training patterns:  124
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.967213114754
+Precision : [ 0.94285714  1.        ]
+Recall : [ 1.          0.92857143]
+F-1 : [ 0.97058824  0.96296296]
+Latent data : 
+0.0080512221121
+0.0161778984936
+Add acc when epoch:   50
+Accuracy : 0.967213114754
+Precision : [ 0.94285714  1.        ]
+Recall : [ 1.          0.92857143]
+F-1 : [ 0.97058824  0.96296296]
+
+7.0672358042e-05
+0.000134562665906
+Number of training patterns:  124
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.918032786885
+Precision : [ 0.88888889  0.96      ]
+Recall : [ 0.96969697  0.85714286]
+F-1 : [ 0.92753623  0.90566038]
+Latent data : 
+0.0080483204055
+0.0163474714933
+Add acc when epoch:   50
+Accuracy : 0.885245901639
+Precision : [ 0.86111111  0.92      ]
+Recall : [ 0.93939394  0.82142857]
+F-1 : [ 0.89855072  0.86792453]
+
+------------End-----------
+2016-03-17 08:33:07
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 4
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_4/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_4_fold/syllable_object_4_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_4_fold/syllable_object_4_3-fold_
+2.57572472679e-05
+5.10862891029e-05
+Number of training patterns:  463
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.974248927039
+Precision : [ 0.96363636  1.        ]
+Recall : [ 1.          0.91891892]
+F-1 : [ 0.98148148  0.95774648]
+Latent data : 
+0.00215952294919
+0.0042915196303
+Add acc when epoch:   50
+Accuracy : 0.991416309013
+Precision : [ 0.99371069  0.98648649]
+Recall : [ 0.99371069  0.98648649]
+F-1 : [ 0.99371069  0.98648649]
+
+2.53523517434e-05
+5.26551667753e-05
+Number of training patterns:  464
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.965517241379
+Precision : [ 0.95757576  0.98507463]
+Recall : [ 0.99371069  0.90410959]
+F-1 : [ 0.97530864  0.94285714]
+Latent data : 
+0.00215451168152
+0.00430424913491
+Add acc when epoch:   50
+Accuracy : 0.965517241379
+Precision : [ 0.95757576  0.98507463]
+Recall : [ 0.99371069  0.90410959]
+F-1 : [ 0.97530864  0.94285714]
+
+2.59403518862e-05
+5.03094828033e-05
+Number of training patterns:  465
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.982683982684
+Precision : [ 0.97530864  1.        ]
+Recall : [ 1.          0.94520548]
+F-1 : [ 0.9875      0.97183099]
+Latent data : 
+0.00215002277609
+0.00432530860686
+Add acc when epoch:   50
+Accuracy : 0.974025974026
+Precision : [ 0.96341463  1.        ]
+Recall : [ 1.          0.91780822]
+F-1 : [ 0.98136646  0.95714286]
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 4
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_4/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_4_fold/syllable_object_4_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_4_fold/syllable_object_4_3-fold_
+2.57572472679e-05
+5.10862891029e-05
+Number of training patterns:  463
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.905579399142
+Precision : [ 0.87845304  1.        ]
+Recall : [ 1.         0.7027027]
+F-1 : [ 0.93529412  0.82539683]
+Latent data : 
+0.00215910089528
+0.00429031577636
+Add acc when epoch:   50
+Accuracy : 0.978540772532
+Precision : [ 0.97530864  0.98591549]
+Recall : [ 0.99371069  0.94594595]
+F-1 : [ 0.98442368  0.96551724]
+
+2.53523517434e-05
+5.26551667753e-05
+Number of training patterns:  464
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.952586206897
+Precision : [ 0.94047619  0.984375  ]
+Recall : [ 0.99371069  0.8630137 ]
+F-1 : [ 0.96636086  0.91970803]
+Latent data : 
+0.00215184584723
+0.00430387611433
+Add acc when epoch:   50
+Accuracy : 0.965517241379
+Precision : [ 0.96319018  0.97101449]
+Recall : [ 0.98742138  0.91780822]
+F-1 : [ 0.97515528  0.94366197]
+
+2.59403518862e-05
+5.03094828033e-05
+Number of training patterns:  465
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.974025974026
+Precision : [ 0.96341463  1.        ]
+Recall : [ 1.          0.91780822]
+F-1 : [ 0.98136646  0.95714286]
+Latent data : 
+0.00214995471558
+0.00431120978159
+Add acc when epoch:   50
+Accuracy : 0.978354978355
+Precision : [ 0.97515528  0.98571429]
+Recall : [ 0.99367089  0.94520548]
+F-1 : [ 0.98432602  0.96503497]
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 4
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_4/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_4_fold/syllable_object_4_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_4_fold/syllable_object_4_3-fold_
+2.57572472679e-05
+5.10862891029e-05
+Number of training patterns:  463
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.948497854077
+Precision : [ 0.92982456  1.        ]
+Recall : [ 1.          0.83783784]
+F-1 : [ 0.96363636  0.91176471]
+Latent data : 
+0.00215859268276
+0.00426866640558
+Add acc when epoch:   50
+Accuracy : 0.991416309013
+Precision : [ 0.99371069  0.98648649]
+Recall : [ 0.99371069  0.98648649]
+F-1 : [ 0.99371069  0.98648649]
+
+2.53523517434e-05
+5.26551667753e-05
+Number of training patterns:  464
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.956896551724
+Precision : [ 0.94610778  0.98461538]
+Recall : [ 0.99371069  0.87671233]
+F-1 : [ 0.96932515  0.92753623]
+Latent data : 
+0.00215056520749
+0.00429940215051
+Add acc when epoch:   50
+Accuracy : 0.965517241379
+Precision : [ 0.95757576  0.98507463]
+Recall : [ 0.99371069  0.90410959]
+F-1 : [ 0.97530864  0.94285714]
+
+2.59403518862e-05
+5.03094828033e-05
+Number of training patterns:  465
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:   50
+Accuracy : 0.982683982684
+Precision : [ 0.97530864  1.        ]
+Recall : [ 1.          0.94520548]
+F-1 : [ 0.9875      0.97183099]
+Latent data : 
+0.00214881757034
+0.00431506666379
+Add acc when epoch:   50
+Accuracy : 0.982683982684
+Precision : [ 0.97530864  1.        ]
+Recall : [ 1.          0.94520548]
+F-1 : [ 0.9875      0.97183099]
+
+------------End-----------
+2016-03-17 08:36:57
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_3/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+3.952256149e-06
+7.86041777736e-06
+Number of training patterns:  2761
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:    6
+Accuracy : 0.905865314989
+Precision : [ 0.88018433  1.        ]
+Recall : [ 1.          0.69483568]
+F-1 : [ 0.93627451  0.8199446 ]
+Latent data : 
+0.000362141294613
+0.000724068572497
+Add acc when epoch:   50
+Accuracy : 0.739319333816
+Precision : [ 0.72623574  1.        ]
+Recall : [ 1.          0.15492958]
+F-1 : [ 0.84140969  0.26829268]
+
+3.95063160366e-06
+7.86777836436e-06
+Number of training patterns:  2761
+Input and output dimensions:  26 2
+Plain data : 
+No acc
+Accuracy : 0.0
+Precision : []
+Recall : []
+F-1 : []
+Latent data : 
+0.000362165098953
+0.000724103985758
+Add acc when epoch:   50
+Accuracy : 0.710354815351
+Precision : [ 0.70479705  1.        ]
+Recall : [ 1.          0.06103286]
+F-1 : [ 0.82683983  0.11504425]
+
+3.93209854951e-06
+7.94057663867e-06
+Number of training patterns:  2762
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:    2
+Accuracy : 0.692753623188
+Precision : [ 0.69253082  1.        ]
+Recall : [ 1.          0.00235294]
+F-1 : [ 0.81833762  0.00469484]
+Latent data : 
+0.000362054069706
+0.000724365585768
+Add acc when epoch:   49
+Accuracy : 0.715942028986
+Precision : [ 0.70898293  1.        ]
+Recall : [ 1.          0.07764706]
+F-1 : [ 0.82971329  0.1441048 ]
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_5/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+3.952256149e-06
+7.86041777736e-06
+Number of training patterns:  2761
+Input and output dimensions:  26 2
+Plain data : 
+No acc
+Accuracy : 0.0
+Precision : []
+Recall : []
+F-1 : []
+Latent data : 
+0.000362133256022
+0.000724026351938
+Add acc when epoch:   50
+Accuracy : 0.898624185373
+Precision : [ 0.87214612  1.        ]
+Recall : [ 1.         0.6713615]
+F-1 : [ 0.93170732  0.80337079]
+
+3.95063160366e-06
+7.86777836436e-06
+Number of training patterns:  2761
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:    6
+Accuracy : 0.693700217234
+Precision : [ 0.69303338  1.        ]
+Recall : [ 1.          0.00704225]
+F-1 : [ 0.81868838  0.01398601]
+Latent data : 
+0.000362151203309
+0.00072402926572
+Add acc when epoch:   50
+Accuracy : 0.903692976104
+Precision : [ 0.87775735  1.        ]
+Recall : [ 1.          0.68779343]
+F-1 : [ 0.93489966  0.81502086]
+
+3.93209854951e-06
+7.94057663867e-06
+Number of training patterns:  2762
+Input and output dimensions:  26 2
+Plain data : 
+No acc
+Accuracy : 0.0
+Precision : []
+Recall : []
+F-1 : []
+Latent data : 
+0.00036203177349
+0.00072442324796
+Add acc when epoch:   50
+Accuracy : 0.845652173913
+Precision : [ 0.81818182  0.9953271 ]
+Recall : [ 0.99895288  0.50117647]
+F-1 : [ 0.89957567  0.66666667]
+
+------------End-----------
+------------Start-----------
+Vowel : vvvn, Delta : [False, False], Tone : 01234
+ANN outpath : /work/w13/decha/Inter_speech_2016_workplace/Tonal_projection/09_25lf0_to_compare_with_ann//vvvn/input_dims_10/delta-False_delta-delta-False/BGP_LVM_Tone_01234/feed_forword_ann/25lf0_50d_iters_ann/
+Syllable object : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+Start at Fold object path : /home/h1/decha/Dropbox/Inter_speech_2016/Syllable_object/mix_object/current_version//vvvn/syllable_object_01234_fold/syllable_object_01234_3-fold_
+3.952256149e-06
+7.86041777736e-06
+Number of training patterns:  2761
+Input and output dimensions:  26 2
+Plain data : 
+No acc
+Accuracy : 0.0
+Precision : []
+Recall : []
+F-1 : []
+Latent data : 
+0.000362126438835
+0.000724045902558
+Add acc when epoch:   50
+Accuracy : 0.962346125996
+Precision : [ 0.95195195  0.9895288 ]
+Recall : [ 0.99581152  0.88732394]
+F-1 : [ 0.97338792  0.93564356]
+
+3.95063160366e-06
+7.86777836436e-06
+Number of training patterns:  2761
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:    5
+Accuracy : 0.697320782042
+Precision : [ 0.69555717  1.        ]
+Recall : [ 1.          0.01877934]
+F-1 : [ 0.82044674  0.03686636]
+Latent data : 
+0.0003621469713
+0.000723989383229
+Add acc when epoch:   50
+Accuracy : 0.951484431571
+Precision : [ 0.93444227  1.        ]
+Recall : [ 1.        0.842723]
+F-1 : [ 0.96611027  0.91464968]
+
+3.93209854951e-06
+7.94057663867e-06
+Number of training patterns:  2762
+Input and output dimensions:  26 2
+Plain data : 
+Add acc when epoch:    2
+Accuracy : 0.692753623188
+Precision : [ 0.69253082  1.        ]
+Recall : [ 1.          0.00235294]
+F-1 : [ 0.81833762  0.00469484]
+Latent data : 
+0.000362034122087
+0.00072437556586
+Add acc when epoch:   50
+Accuracy : 0.93115942029
+Precision : [ 0.91187739  0.99107143]
+Recall : [ 0.99685864  0.78352941]
+F-1 : [ 0.95247624  0.87516426]
+
+------------End-----------
